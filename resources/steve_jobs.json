@@ -1,0 +1,215 @@
+{
+	"author": "Steve Jobs",
+	"events": [
+		{
+			"event": "Standford Commencement 2005",
+			"source": "https://news.stanford.edu/stories/2005/06/youve-got-find-love-jobs-says",
+			"quotes": [
+				{
+					"quote": "You can’t connect the dots looking forward.",
+					"category": "Life philosophy",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "You can only connect them looking backwards.",
+					"category": "Reflection",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "So you have to trust that the dots will somehow connect in your future.",
+					"category": "Life philosophy",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "You have to trust in something: your gut, destiny, life, karma, whatever.",
+					"category": "Belief & values",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "Because believing that the dots will connect down the road will give you the confidence to follow your heart.",
+					"category": "Personal growth",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "And that will make all the difference.",
+					"category": "Impact & meaning",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "I’m convinced that the only thing that kept me going was that I loved what I did.",
+					"category": "Passion & work",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "You’ve got to find what you love.",
+					"category": "Purpose & career",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "The only way to do great work is to love what you do.",
+					"category": "Excellence & work",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "If you haven’t found it yet, keep looking—and don’t settle.",
+					"category": "Persistence",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "Sometimes life’s gonna hit you in the head with a brick.",
+					"category": "Adversity",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "Don’t lose faith.",
+					"category": "Resilience",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose.",
+					"category": "Mortality & mindset",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "You are already naked.",
+					"category": "Fearlessness",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "There is no reason not to follow your heart.",
+					"category": "Courage",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "Your time is limited, so don’t waste it living someone else’s life.",
+					"category": "Authentic living",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "Don’t let the noise of others’ opinions drown out your own inner voice.",
+					"category": "Individuality",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "Stay hungry. Stay foolish.",
+					"category": "Lifelong growth",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				}
+			]
+		},
+		{
+			"event": "Think Different 1997 Campaign Presentation",
+			"source": "https://www.youtube.com/watch?v=b4n8uT12ij8",
+			"quotes": [
+				{
+					"quote": "We’re trying to get back to the basics: great products, great marketing, and great distribution.",
+					"category": "Leadership & strategy",
+					"source_type": "Campaign Presentation",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "There’s way too much stuff, and there’s not enough focus.",
+					"category": "Leadership & focus",
+					"source_type": "Campaign Presentation",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "So we actually got rid of 70% of the product roadmap.",
+					"category": "Product strategy",
+					"source_type": "Campaign Presentation",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "You’re going to see the product line get much simpler, and you’re going to see it get much better.",
+					"category": "Product management",
+					"source_type": "Campaign Presentation",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "We’re really thinking differently about the kinds of products we have to build.",
+					"category": "Innovation",
+					"source_type": "Campaign Presentation",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "They were three feet off the ground with excitement because they finally understood where we were going.",
+					"category": "Leadership & motivation",
+					"source_type": "Campaign Presentation",
+					"confidence_level": "Medium"
+				},
+				{
+					"quote": "We’re not smart enough to do that. I don’t think Einstein would be smart enough to do that.",
+					"category": "Product philosophy",
+					"source_type": "Campaign Presentation",
+					"confidence_level": "Medium"
+				},
+				{
+					"quote": "Customers can tell us what they want and we can respond super fast.",
+					"category": "Customer focus",
+					"source_type": "Campaign Presentation",
+					"confidence_level": "Medium"
+				},
+				{
+					"quote": "We’re going to innovate and break new ground.",
+					"category": "Vision & ambition",
+					"source_type": "Campaign Presentation",
+					"confidence_level": "Medium"
+				},
+				{
+					"quote": "To me, marketing is about values.",
+					"category": "Marketing philosophy",
+					"source_type": "Campaign Presentation",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "This is a very complicated world. It’s a very noisy world.",
+					"category": "Communication",
+					"source_type": "Campaign Presentation",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "We have to be really clear about what we want them to know.",
+					"category": "Clarity & messaging",
+					"source_type": "Campaign Presentation",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "Even a great brand needs investment and caring to retain its relevance and vitality.",
+					"category": "Brand leadership",
+					"source_type": "Campaign Presentation",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "The way to do that is not to talk about speeds and feeds.",
+					"category": "Marketing strategy",
+					"source_type": "Campaign Presentation",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "At our core, we believe that people with passion can change the world for the better.",
+					"category": "Values & belief",
+					"source_type": "Campaign Presentation",
+					"confidence_level": "High"
+				}
+			]
+		}
+	]
+}

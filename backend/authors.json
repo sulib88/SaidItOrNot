@@ -1,0 +1,9 @@
+[
+  { "author_id": "1178", "name": "Denzel Washington", "title": "Actor", "image": "/images/denzel-washington.png" },
+  { "author_id": "6503", "name": "Marie Curie", "title": "Chemist", "image": "/images/marie-curie.png" },
+  { "author_id": "5927", "name": "Maya Angelou", "title": "Poet", "image": "/images/maya-angelou.png" },
+  { "author_id": "4501", "name": "Oprah Winfrey", "title": "Media Personality", "image": "/images/oprah-winfrey.png" },
+  { "author_id": "7226", "name": "Nelson Mandela", "title": "Politician", "image": "/images/nelson-mandela.png" },
+  { "author_id": "9110", "name": "Mark Twain", "title": "Writer", "image": "/images/mark-twain.png" },
+  { "author_id": "3994", "name": "Steve Jobs", "title": "Entrepreneur", "image": "/images/steve-jobs.png" }
+]

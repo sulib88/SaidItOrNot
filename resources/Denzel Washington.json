@@ -1,0 +1,143 @@
+{
+	"author": "Denzel Washington",
+	"events": [
+		{
+			"event": "Commencement Speech at Dillard University",
+			"source": "https://www.youtube.com/watch?v=BxY_eJLBflk",
+			"quotes": [
+				{
+					"quote": "Put God first in everything you do.",
+					"category": "Faith & life values",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "Everything that I have is by the grace of God. Understand that it's a gift.",
+					"category": "Gratitude & faith",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "I kept God in my life, and it has kept me humble.",
+					"category": "Humility & character",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "I didn't always stick with Him, but He always stuck with me.",
+					"category": "Faith & perseverance",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "Stick with Him in everything you do.",
+					"category": "Spiritual guidance",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "Fail big.",
+					"category": "Resilience",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "Don't be afraid to fail.",
+					"category": "Courage & growth",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "Don't be afraid to go outside the box.",
+					"category": "Creativity & innovation",
+					"source_type": "Speech",
+					"confidence_level": "Medium"
+				},
+				{
+					"quote": "Dreams without goals are just dreams, and they ultimately fuel disappointment.",
+					"category": "Purpose & discipline",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "Hard work works.",
+					"category": "Work ethic",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "Don't confuse movement with progress.",
+					"category": "Focus & productivity",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "You'll never see a U-Haul behind a hearse.",
+					"category": "Life philosophy",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "I don't care how much money you make—you can't take it with you.",
+					"category": "Detachment from materialism",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "It's not how much you have; it's what you do with what you have.",
+					"category": "Responsibility & stewardship",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "The most selfish thing you can do in this world is help someone else.",
+					"category": "Service & leadership",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "Nothing's better than that. Not jewelry, not a big house, not the cars. It's the joy.",
+					"category": "Fulfillment & meaning",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "Say thank you.",
+					"category": "Gratitude",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "Say thank you in advance for what's already yours.",
+					"category": "Faith & mindset",
+					"source_type": "Speech",
+					"confidence_level": "Medium"
+				},
+				{
+					"quote": "True desire in the heart for anything good is God's proof to you, sent beforehand to indicate that it's yours already.",
+					"category": "Spiritual belief",
+					"source_type": "Speech",
+					"confidence_level": "Medium"
+				},
+				{
+					"quote": "Anything you want that's good, you can have.",
+					"category": "Motivation & belief",
+					"source_type": "Speech",
+					"confidence_level": "Medium"
+				},
+				{
+					"quote": "When you get it, reach back and pull someone else up.",
+					"category": "Mentorship & leadership",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "Don't just aspire to make a living. Aspire to make a difference.",
+					"category": "Purpose & impact",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				}
+			]
+		}
+	]
+}

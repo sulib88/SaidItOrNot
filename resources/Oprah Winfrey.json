@@ -1,0 +1,125 @@
+{
+	"author": "Oprah Winfrey",
+	"events": [
+		{
+			"event": "Commencement Speech at USC Annenberg 2018",
+			"source": "https://www.youtube.com/watch?v=2Ok_KYFWuKs",
+			"quotes": [
+				{
+					"quote": "The truth exonerates and it convicts. It disinfects and it galvanizes.",
+					"category": "Ethics & truth",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "The truth has always been and will always be our shield against corruption, our shield against greed and despair.",
+					"category": "Moral leadership",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "The truth is our saving grace.",
+					"category": "Values & integrity",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "Declare war on one of our most dangerous enemies: cynicism.",
+					"category": "Leadership & mindset",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "Cynicism shatters your faith.",
+					"category": "Resilience",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "These times are here to let us know that we need to take a stand for our right to have hope.",
+					"category": "Hope & civic responsibility",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "What are you willing to stand for?",
+					"category": "Personal values",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "Put your honor where your mouth is.",
+					"category": "Integrity",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "To somebody who's hurting, something is everything.",
+					"category": "Compassion & service",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "Don't ever confuse what is legal with what is moral.",
+					"category": "Ethics",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "Do the right thing, especially when nobody's looking.",
+					"category": "Personal integrity",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "Your job is not who you are—it's just what you're doing on the way to who you will become.",
+					"category": "Career & identity",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "Become so skilled, so vigilant, so flat-out fantastic at what you do that your talent cannot be dismissed.",
+					"category": "Excellence & work ethic",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "Stop comparing yourself to other people.",
+					"category": "Personal growth",
+					"source_type": "Speech",
+					"confidence_level": "Medium"
+				},
+				{
+					"quote": "You're only on this planet to be you—not someone else's imitation of you.",
+					"category": "Authenticity",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "Your life journey is about learning to become more of who you are and fulfilling the highest, truest expression of yourself as a human being.",
+					"category": "Life purpose",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "Discernment is what we're missing—and a kind heart.",
+					"category": "Wisdom & empathy",
+					"source_type": "Speech",
+					"confidence_level": "Medium"
+				},
+				{
+					"quote": "This degree is a privilege, and that privilege obligates you to use what you've learned to lend a hand to somebody who doesn't get to be here.",
+					"category": "Responsibility & service",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				},
+				{
+					"quote": "When the time comes to bet on yourself, I hope you double down.",
+					"category": "Self-belief & courage",
+					"source_type": "Speech",
+					"confidence_level": "High"
+				}
+			]
+		}
+	]
+}
