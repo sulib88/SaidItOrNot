@@ -42,7 +42,7 @@ export default function Home() {
   const [theme, setTheme] = useState('light');
   const [imageUrls, setImageUrls] = useState({});
   const apiBase = process.env.NEXT_PUBLIC_API_BASE || 'http://localhost:3001';
-  const { data: authors } = useSWR(`${apiBase}/api/authors`, fetcher);
+  const { data: authors } = useSWR('/api/authors', fetcher);
 
   useEffect(() => {
     const saved = localStorage.getItem('theme') || 'light';
