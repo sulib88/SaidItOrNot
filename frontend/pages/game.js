@@ -35,7 +35,7 @@ export default function Game() {
   useEffect(() => {
     if (!author_id) return;
     // Fetch all authors for the modal
-    fetch(`${apiBase}/api/authors`)
+    fetch('/api/authors')
       .then(r => r.json())
       .then(authors => {
         setAllAuthors(authors);
@@ -70,7 +70,7 @@ export default function Game() {
   const fetchQuote = () => {
     setLoading(true);
     setDisabled(true);
-    fetch(`${apiBase}/api/quote/random`, {
+    fetch('/api/quote/random', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ author_id }),
@@ -127,7 +127,7 @@ export default function Game() {
   const verify = (choice) => {
     if (!requestId || disabled) return;
     setDisabled(true);
-    fetch(`${apiBase}/api/quote/verify`, {
+    fetch('/api/quote/verify', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ request_id: requestId, player_choice: choice }),
